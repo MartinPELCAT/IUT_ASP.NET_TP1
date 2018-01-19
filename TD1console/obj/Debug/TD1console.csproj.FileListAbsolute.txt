@@ -1,0 +1,10 @@
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\TD1console.exe.config
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\TD1console.exe
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\TD1console.pdb
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\EntityFramework.dll
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\EntityFramework.xml
+C:\Users\pelcatm\Desktop\TD1console\TD1console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pelcatm\Desktop\TD1console\TD1console\obj\Debug\TD1console.csprojResolveAssemblyReference.cache
+C:\Users\pelcatm\Desktop\TD1console\TD1console\obj\Debug\TD1console.exe
+C:\Users\pelcatm\Desktop\TD1console\TD1console\obj\Debug\TD1console.pdb
